@@ -1,0 +1,7 @@
+config:
+  azure-native:location: westus2
+  azure:clientId: 6ddc31c0-6ce5-4f5a-
+  azure:clientSecret:
+    secure: AAABALj6doKN4SWKl5VYKpGZo2Br0J7S9srFTMWbhZ1pE
+  azure:subscriptionId: 760a0941-f66f-
+  azure:tenantId: 9c098977-6fd6-46bd-x
